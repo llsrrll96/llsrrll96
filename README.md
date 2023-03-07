@@ -4,8 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=신입%20개발자%20김주현!&fontSize=50" />
   
 ### 👨‍💻 안녕하세요
-주로 Spring Boot 를 활용하여 벡엔드 개발을 하고 있습니다. <br>
-컴퓨터 학과를 전공하면서 React, Python, Android 등 다양한 경험을 가지고 있는 다채로운 개발자입니다.
+주로 Spring Boot 를 활용하여 벡엔드 개발을 하고 있습니다.
+컴퓨터 학과를 전공하여 React, Python, Android 등 다양한 기술 경험을 가지고 있는 다채로운 개발자입니다.
   
 💌 kjuhyeon758@gmail.com <br>
 📑 [https://javapp.tistory.com](https://javapp.tistory.com)
