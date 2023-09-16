@@ -1,11 +1,12 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Im_개발자!&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=계속해서 함께하고 싶은 나&fontSize=50" />
   
 ### 👨‍💻 안녕하세요
-주로 Java언어와 Spring Boot 를 활용하여 벡엔드 개발을 하고 있습니다. <br>
-컴퓨터 학과를 전공하여 React, Python, Android 등 다양한 기술 경험을 가지고 있는 다채로운 개발자입니다. <br>
+주로 Java 언어와 Spring Framework 를 활용하여 벡엔드 개발을 하고 있습니다. <br>
+컴퓨터 학과를 전공하여 다양한 프로젝트, 산학 협력 프로젝트 경험으로 계속해서 함께 일하고 싶은 개발자를 지향하고 있습니다.
+여러 프로젝트를 진행하면서 React, Python, Android와 같은 다채로운 기술 경험들을 가지고 있습니다. <br>
 <br>
 [가독성 좋은 클린 코드 작성과 코드 컨벤션을 적용합니다.] <br>
 협업 프로젝트에서는 다른 개발자들도 코드를 이해하고 수정할 수 있도록 가독성이 좋은 코드를 작성하는 것이 필수적입니다. <br>
