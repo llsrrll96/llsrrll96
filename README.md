@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=계속해서 함께하고 싶은 나&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=계속해서_함께하고_싶은_나&fontSize=50" />
   
 ### 👨‍💻 안녕하세요
 주로 Java 언어와 Spring Framework 를 활용하여 벡엔드 개발을 하고 있습니다. <br>
